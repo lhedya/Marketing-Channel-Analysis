@@ -64,7 +64,7 @@ segmentasi pelanggan yang actionable.
 ---
 
 ## 📸 Dashboard Preview
-![RFM Dashboard](dashboard/Marketing Channel Analysis.pbix)
+[RFM Dashboard](dashboard/Marketing Channel Analysis.pbix)
 
 ---
 
